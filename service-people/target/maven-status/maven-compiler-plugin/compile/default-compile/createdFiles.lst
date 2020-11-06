@@ -1,0 +1,5 @@
+org/perceval/model/Person.class
+org/perceval/model/ProjectRole.class
+META-INF/panache-archive.marker
+org/perceval/backend/PeopleResource.class
+org/perceval/model/Department.class
